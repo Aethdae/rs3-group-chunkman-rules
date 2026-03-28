@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Runescape";
+  src: url("runescape.ttf");
+}
+
+:root {
+  font-family: "Runescape";
+  --light-brown: #cbba95;
+  --mid-brown: #bbab8b;
+  --dark-brown: #ac9d81;
+}
